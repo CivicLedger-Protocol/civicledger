@@ -511,7 +511,7 @@ export default function CivicLedgerPage() {
             <p className="text-[9px] font-mono text-yellow-500 uppercase tracking-[0.5em] mb-3">The Problem</p>
             <h2 className={cn("text-3xl md:text-4xl font-black tracking-tight", isDark ? "text-white" : "text-slate-900")}>
               Procurement corruption is not an accident.<br />
-              <span className="text-yellow-400">It's the default state without accountability infrastructure.</span>
+              <span className="text-yellow-400">It&apos;s the default state without accountability infrastructure.</span>
             </h2>
           </div>
           <div className={cn("grid grid-cols-2 md:grid-cols-4 gap-px border", isDark ? "bg-slate-800/50 border-slate-800" : "bg-slate-200 border-slate-200")}>
