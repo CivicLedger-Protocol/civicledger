@@ -14,7 +14,7 @@
 
 ---
 
-## The Idea
+## The Idea.
 
 Governments collectively spend $13 trillion on public contracts every year. Approximately $2 trillion of that — roughly 15% — disappears to corruption, fraud, and opacity. The mechanism is always the same: contracts are awarded in closed rooms, funds are disbursed against unverified milestones, vendor performance is never recorded, and the entire system resets next fiscal year with no memory of what happened before.
 
